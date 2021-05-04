@@ -5,3 +5,5 @@ export const CATEGORIES = [
     'Money',
     'Misc'
 ]
+
+//change to array of objects, add 'selected' key
